@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mayurpatle
-- 👀 I’m interested in Machine Learning , web development and android development 
+- 👀 I’m interested in Machine Learning , and Web Development  
 - 🌱 I’m currently learning web sdevelopment 
 - 💞️ I’m looking to collaborate on development projects 
 - 📫 How to reach me ...
